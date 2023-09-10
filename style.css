@@ -4,7 +4,6 @@
 }
 .main1{
     display: grid;
-    border: 1px solid black;
     width: 1275px;
     height: 800px;
     background-color: white;
@@ -47,7 +46,6 @@
     text-transform: uppercase;
     align-items: start;
     flex-direction: column;
-    border: 1px solid red;
     position: absolute;
     
 }
@@ -80,7 +78,6 @@
     font-style: normal;
     font-weight: 300;
     line-height: 32px; /* 145.455% */
-    border: 1px solid red;
     white-space: wrap;
     top: 190px;
     left: 60%;
@@ -132,7 +129,6 @@
         margin-top: 50px;
         grid-template-columns: 165px 475px 160px 475px 164px;
         grid-template-rows:400px 445px 445px 180px;
-        border:1px solid black;
         position: relative;
         grid-row-gap: 10px;
         grid-column-gap: 10px; ;
